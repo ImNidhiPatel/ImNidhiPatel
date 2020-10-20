@@ -61,3 +61,7 @@
 [jsplaylist]: https://github.com/ImNidhiPatel/imnidhipatel
 [cssplaylist]: https://github.com/ImNidhiPatel/imnidhipatel
 [reactplaylist]: https://github.com/ImNidhiPatel/imnidhipatel
+
+### Follow Me :
+![image](dino.gif)
+
