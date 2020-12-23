@@ -44,18 +44,11 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Nidhi's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=imnidhipatel&show_icons=true&hide_border=true" />
-
-</details>
-
 [website]: https://github.com/ImNidhiPatel/imnidhipatel
 [course]: https://github.com/ImNidhiPatel/imnidhipatel
 [twitter]: https://github.com/ImNidhiPatel/imnidhipatel
 [youtube]: https://github.com/ImNidhiPatel/imnidhipatel
-[instagram]: https://www.instagram.com/erwithacamera/
+[instagram]: https://github.com/ImNidhiPatel/imnidhipatel
 [linkedin]: https://linkedin.com/in/ernidhipatel/
 [webdevplaylist]: https://github.com/ImNidhiPatel/imnidhipatel
 [jsplaylist]: https://github.com/ImNidhiPatel/imnidhipatel
