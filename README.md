@@ -3,12 +3,12 @@
 
 ## I'm a Developer, Learner and passionate Engineer!!
 
-- 🔭 I’m currently working on Augmented Reality Based App Development
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently working on Augmented Reality App Developement
+- 🌱 I’m currently learning Machine Learning and AI
 - 👯 I’m looking to collaborate with other Developers
 - 🥅 2020 Goals: Learn Git and Github & Contribute to Open Source projects
 - 💬 Ask me about Web, Tech and Dev Projects
-- 🤔 I’m looking for help with- C#
+- 🤔 I’m looking for help with- Nural Networks
 - ⚡ Fun fact: I love Photography
 
 ### Connect with me:
