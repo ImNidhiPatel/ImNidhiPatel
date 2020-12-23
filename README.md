@@ -1,8 +1,6 @@
 ### Hi there, I'm [Nidhi!][website] 👋
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
-[![Website](https://img.shields.io/website?label=NidhiPatel&style=for-the-badge&url=https%3A%2F%2Fgithub.com/ImNidhiPatel/imnidhipatel)](https://github.com/ImNidhiPatel/imnidhipatel)
-
 ## I'm a Developer, Learner and passionate Engineer!!
 
 - 🔭 I’m currently working on Augmented Reality Based App Development
