@@ -1,4 +1,5 @@
 ### Hi there, I'm [Nidhi!][website] 👋
+
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 ## I'm a Developer, Learner and passionate Engineer!!
@@ -47,6 +48,9 @@
 [jsplaylist]: https://github.com/ImNidhiPatel/imnidhipatel
 [cssplaylist]: https://github.com/ImNidhiPatel/imnidhipatel
 [reactplaylist]: https://github.com/ImNidhiPatel/imnidhipatel
+
+<br />
+
 
 ### Follow Me :
 ![image](dino.gif)
