@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Augmented Reality App Developement
 - 🌱 I’m currently learning Machine Learning and AI
-- 🥅 2020 Goals: Learn Git and Github & Contribute to Open Source projects
+- 🥅 2020 Goals: Learn Git and Github
 - 💬 Ask me about Web, Tech and Dev Projects
 - 🤔 I’m looking for help with- Python and Nural Networks
 - ⚡ Fun fact: I love Photography
