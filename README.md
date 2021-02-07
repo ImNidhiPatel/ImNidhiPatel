@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nidhi</h1>
 <h3 align="center">A passionate Developer from India.</h3>
 
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"; style="margin-right: 30px">
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230" style="margin-right: 30px">
 
 - 🔭 I’m currently working on **Augmented Reality App Development**
 
